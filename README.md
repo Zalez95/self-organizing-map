@@ -1,2 +1,2 @@
-# Mapa-Auto-organizado
-Prácticas de Mapas Auto-Organizados para la asignatura Minería de Datos de Ingeniería Informática (Universidad de Valladolid)
+# Self Organizing Map
+Self Organizing Map for my subject of Data Mining of Computer Engineering in the University of Valladolid
